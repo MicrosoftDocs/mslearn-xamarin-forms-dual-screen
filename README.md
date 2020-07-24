@@ -1,3 +1,6 @@
+# Microsoft Learn: Build dual-screen Xamarin.Forms apps by using TwoPaneView
+
+This project contains the source code for the [**Build dual-screen Xamarin.Forms apps by using TwoPaneView**](https://docs.microsoft.com/learn/) Microsoft Learn module.
 
 # Contributing
 
