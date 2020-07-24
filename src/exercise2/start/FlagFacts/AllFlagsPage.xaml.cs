@@ -13,7 +13,7 @@ namespace FlagFacts
 
         private async void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            await this.Navigation.PushAsync(new FlagDetailsPage());
+            //await this.Navigation.PushAsync(new FlagDetailsPage());
         }
     }
 }

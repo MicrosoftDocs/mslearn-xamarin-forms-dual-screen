@@ -25,10 +25,6 @@ namespace FlagFacts
                 "OK");
         }
 
-        private void OnMoreInformation(object sender, EventArgs e)
-        {
-            Launcher.OpenAsync(((FlagDetailsViewModel)BindingContext).CurrentFlag.MoreInformationUrl);
-        }
 
         private void OnPrevious(object sender, EventArgs e)
         {
