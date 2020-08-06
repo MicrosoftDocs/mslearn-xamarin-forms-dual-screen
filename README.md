@@ -1,8 +1,19 @@
+---
+page_type: sample
+name: "Surface Duo - Build dual-screen Xamarin.Forms apps module"
+languages:
+- csharp
+products:
+- surface-duo
+- xamarin
+description: "Learn to develop dual-screen apps for Surface Duo with Xamarin.Forms using TwoPaneView and DualScreenInfo."
+urlFragment: module
+---
 # Microsoft Learn: Build dual-screen Xamarin.Forms apps by using TwoPaneView
 
 This project contains the source code for the [**Build dual-screen Xamarin.Forms apps by using TwoPaneView**](https://docs.microsoft.com/learn/) Microsoft Learn module.
 
-# Contributing
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -16,7 +27,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
