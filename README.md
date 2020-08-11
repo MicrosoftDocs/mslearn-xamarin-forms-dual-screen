@@ -13,6 +13,12 @@ urlFragment: module
 
 This project contains the source code for the [**Build dual-screen Xamarin.Forms apps by using TwoPaneView**](https://docs.microsoft.com/learn/) Microsoft Learn module.
 
+There are three exercises included. The result of the final exercise is shown below on a Surface Duo emulator:
+
+![Dual-screen app on the Surface Duo emulator](Screenshots/flags-surface-duo-emulator.png)
+
+Refer to the [dual-screen developer docs](https://docs.microsoft.com/dual-screen/xamarin/) for additional information.
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
