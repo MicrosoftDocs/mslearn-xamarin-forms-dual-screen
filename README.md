@@ -5,7 +5,6 @@ languages:
 - csharp
 products:
 - surface-duo
-- xamarin
 description: "Learn to develop dual-screen apps for Surface Duo with Xamarin.Forms using TwoPaneView and DualScreenInfo."
 urlFragment: module
 ---
